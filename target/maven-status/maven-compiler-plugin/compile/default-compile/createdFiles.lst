@@ -1,0 +1,4 @@
+com/example/Person/repository/PersonRepository.class
+com/example/Person/PersonApplication.class
+com/example/Person/controller/PersonController.class
+com/example/Person/model/Person.class
